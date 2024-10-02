@@ -30,9 +30,7 @@ import math  # This is necessary to call the math.ceil function below
 def main():
     """Get the number of hotdogs needed, then calculate values for leftover and
     minimum needed hotdogs, then calculate values for leftover and minimum 
-
-    
-            needed buns"""
+    needed buns"""
 
     # Get the total number of hot dogs needed
     total = get_total_hot_dogs()
